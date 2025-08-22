@@ -1,1 +1,1 @@
-# SQL_Creator
+# SQL_Creator using Azure OpenAI LLM
